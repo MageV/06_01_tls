@@ -11,5 +11,3 @@
 /static/*
 !/static/.gitkeep
 
-#keys
-private.*
